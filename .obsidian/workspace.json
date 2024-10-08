@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "cb21b8e01ff197f7",
+    "id": "6f55ac6875e8b8be",
     "type": "split",
     "children": [
       {
-        "id": "e5d6de36fa88d274",
+        "id": "43eb2d13c195c16f",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd0596b32ea0ce6",
+            "id": "c5b1f1524c749170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura Web/Gradle.md",
+                "file": "1° Cuatrimestre/CDAR/Criptografía/Cifrado.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4b30c995c694118f",
+    "id": "cac25dc15cb2e2d8",
     "type": "split",
     "children": [
       {
-        "id": "76a121979a3dd537",
+        "id": "e51d67ac23b62cfe",
         "type": "tabs",
         "children": [
           {
-            "id": "d4e7deff9e4c8828",
+            "id": "4c4e1c424e955871",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "d346d247e6afb15b",
+            "id": "73cbdeeeefc8e2e9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "10f708a985c4578a",
+            "id": "c46195118f7a372e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 231.5086555480957
   },
   "right": {
-    "id": "7e87642bffa81ad5",
+    "id": "828641c182c68440",
     "type": "split",
     "children": [
       {
-        "id": "9bc32fdf7b3da3f0",
+        "id": "d2ae9dfa5c3d936b",
         "type": "tabs",
         "children": [
           {
-            "id": "1567e938f07ce511",
+            "id": "61bd22237712e538",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura Web/Gradle.md",
+                "file": "1° Cuatrimestre/CDAR/Criptografía/Cifrado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "65141b08bdc397ab",
+            "id": "3a11ea5b2321a88d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura Web/Gradle.md",
+                "file": "1° Cuatrimestre/CDAR/Criptografía/Cifrado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e5c4ad1c90b4e0dc",
+            "id": "687b421047401a71",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,81 +120,91 @@
             }
           },
           {
-            "id": "9ba83523a3923db6",
+            "id": "0d71b6f1298e90d1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura Web/Gradle.md"
+                "file": "1° Cuatrimestre/CDAR/Criptografía/Cifrado.md"
               }
+            }
+          },
+          {
+            "id": "05ee01ee2557566b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4e7deff9e4c8828",
+  "active": "4c4e1c424e955871",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-27 17.01.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-28 14.51.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-07 17.18.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-08 15.57.18.excalidraw.md",
-    "Arquitectura Web/REST/Estados.md",
-    "TDV/Testing/TestNG.md",
-    "TDV/Testing/Mocking.md",
-    "Arquitectura Web/JPA/JPQL (Java Persistence Query Language).md",
-    "TDV/Testing",
-    "Arquitectura Web/JPA/JPA (Java Persistence API).md",
-    "GEERs/Seguridad.md",
-    "Arquitectura Web/JPA/Relaciones/Asociación.md",
-    "Arquitectura Web/JPA/Orientación a Objetos.md",
-    "Arquitectura Web/JPA/Relaciones/Generalización.md",
-    "Arquitectura Web/JPA/Relaciones/Dependencia.md",
-    "Arquitectura Web/JPA/Patrones/DTO (Data Transfer Object).md",
-    "Arquitectura Web/JPA/Relaciones/Java/@OneToMany.md",
-    "Arquitectura Web/JPA/Relaciones/Java/@ManyToMany.md",
-    "Arquitectura Web/JPA/Relaciones/Java/@ManyToOne.md",
-    "GEERs/Blockchain.md",
-    "TDV/Documentación/User Stories.md",
-    "TDV/Documentación/Requerimientos.md",
-    "TDV/Documentación/Product Backlog.md",
-    "Arquitectura Web/JPA",
-    "Arquitectura Web/REST",
-    "TDV/Manejo de Código/Aserciones.md",
-    "TDV/Manejo de Código/Herramientas/JavaDoc.md",
-    "TDV/Manejo de Código/Documentación de Código.md",
-    "TDV/Manejo de Código/Linting.md",
-    "TDV/Manejo de Código/Herramientas",
-    "TDV/Manejo de Código",
-    "TDV/Documentación",
-    "GEERs",
-    "TDV/img/Backlog.png",
-    "TDV/img",
-    "TDV/img/Matriz Trazabilidad.png",
-    "TDV",
-    "Arquitectura Web/JPA/img/DTOMapping.png",
-    "Arquitectura Web/JPA/img/PatronRepository.png",
-    "Arquitectura Web/JPA/Patrones",
-    "Arquitectura Web/JPA/img/JPQL.png",
-    "Arquitectura Web/JPA/img/ManyToManyBidireccional.png",
-    "Arquitectura Web/JPA/img/ManyToMany.png",
-    "Arquitectura Web/JPA/img/OneToOneBidireccional.png",
-    "Arquitectura Web/JPA/img/OneToOne.png",
-    "Arquitectura Web/JPA/img/OneToMany.png"
+    "1° Cuatrimestre/cifradoCesarPoli-Alfabético.txt",
+    "1° Cuatrimestre/CDAR/Criptografía/Criptografía.md",
+    "2° Cuatrimestre",
+    "1° Cuatrimestre",
+    "Excalidraw/Drawing 2024-10-08 10.59.48.excalidraw.md",
+    "1° Cuatrimestre/CDAR/Criptografía/Cifrado.md",
+    "1° Cuatrimestre/Prog3/Hash/Hash (Estructura de dispersión).md",
+    "1° Cuatrimestre/Prog3/Hash/Modulo en calculadora.md",
+    "1° Cuatrimestre/Prog3/Hash/Hashing/Hashing Perfecto.md",
+    "Untitled.md",
+    "1° Cuatrimestre/Metodologias/UML (Unified Modeling Language).md",
+    "Pasted image 20241008103035.png",
+    "1° Cuatrimestre/Prog3/Arboles/Arboles.md",
+    "1° Cuatrimestre/Prog3/Arboles/imagenes/ABB.png",
+    "Maven.md",
+    "Gradle.md",
+    "1° Cuatrimestre/Prog3/Grafos/Definición de Grafos.md",
+    "1° Cuatrimestre/Prog3/Grafos/Implementación de Grafos.md",
+    "1° Cuatrimestre/Excalidraw/ejercicioBT.md",
+    "1° Cuatrimestre/Excalidraw/Drawing 2024-07-10 17.06.08.excalidraw.md",
+    "1° Cuatrimestre/Excalidraw/Drawing 2024-07-08 15.57.18.excalidraw.md",
+    "1° Cuatrimestre/Excalidraw/Pasted Image 20240711103905_409.png",
+    "1° Cuatrimestre/Excalidraw/Pasted Image 20240711100149_850.png",
+    "1° Cuatrimestre/Prog3/Hash/Hashing/Hashing Separado con Crecimiento.md",
+    "1° Cuatrimestre/Prog3/Hash/Hashing/Colisión y Overflow (desborde).md",
+    "1° Cuatrimestre/Prog3/Hash/Hashing/Hashing Puro.md",
+    "1° Cuatrimestre/Prog3/Hash/images/FormulaCrecimientoHashing.png",
+    "1° Cuatrimestre/Excalidraw/Pasted Image 20240710170755_166.png",
+    "1° Cuatrimestre/Prog3/Hash/Hashing/Hashing Separado.md",
+    "1° Cuatrimestre/Excalidraw/Drawing 2024-06-28 14.51.36.excalidraw.md",
+    "1° Cuatrimestre/Prog3/Arboles/imagenes/ListaFactoreo.png",
+    "1° Cuatrimestre/Prog3/Arboles/imagenes/ABB02.png",
+    "1° Cuatrimestre/Prog3/Arboles/imagenes/EjemploArbolBinario.png",
+    "1° Cuatrimestre/Prog3/Arboles/imagenes/EstructurasEspecialesDeARboles.png",
+    "1° Cuatrimestre/Prog3/Ordenamiento/Algoritmos/Bubble Sort.md",
+    "1° Cuatrimestre/Prog3/Arboles/imagenes",
+    "1° Cuatrimestre/Excalidraw/Drawing 2024-07-07 17.18.34.excalidraw.md",
+    "1° Cuatrimestre/Prog3/Arboles",
+    "Java/Untitled",
+    "Java",
+    "1° Cuatrimestre/Prog3/Ordenamiento/Algoritmos/Merge Sort.md",
+    "1° Cuatrimestre/Excalidraw/Drawing 2024-06-27 17.01.33.excalidraw.md",
+    "1° Cuatrimestre/Prog3/Ordenamiento/imagenes",
+    "1° Cuatrimestre/Excalidraw",
+    "1° Cuatrimestre/Prog3/Ordenamiento/Algoritmos",
+    "1° Cuatrimestre/Prog3/Ordenamiento",
+    "Untitled.canvas"
   ]
 }

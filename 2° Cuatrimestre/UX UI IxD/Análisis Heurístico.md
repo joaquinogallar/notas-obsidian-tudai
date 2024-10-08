@@ -1,5 +1,5 @@
 ## ¿Qué es?
-Es de las formas más rápidas y baratas de encontrar fallas de **[usabilidad](Usabilidad)** en un sistema que interactua con usuarios.
+Es de las formas más rápidas y baratas de encontrar fallas de **[usabilidad](Usabilidad.md)** en un sistema que interactua con usuarios.
 
 Se refieren a una serie de **[Principios Heurísticos](Principios.md)** usados por un evaluador experimentado para hallar problemas de usabilidad.
 
