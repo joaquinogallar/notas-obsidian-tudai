@@ -9,7 +9,7 @@ JPA solo es la API. Para usarla, se necesita una **implementación** o **proveed
 
 Se configura a través de metadatos.
 
-## [Asociaciones](2°%20Cuatrimestre/Arquitectura%20Web/JPA/Relaciones/Asociación.md) en JPA
+## [Asociaciones](2°%20Año/2°%20Cuatrimestre/Arquitectura%20Web/JPA/Relaciones/Asociación.md) en JPA
 Anotaciones en JPA para las asociaciones:
 - [**@ManyToOne**](@ManyToOne.md)
 - [**@OneToMany**](@OneToMany.md)

@@ -1,4 +1,4 @@
-Es un tipo especial de relación de **[[Agregación]]**, por ende, también es un tipo de **[[1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Asociación]]**. Es decir, puede incluir [[Decoradores, Adornos]] y es **estructural**. ([[Diagrama de Clases]])
+Es un tipo especial de relación de **[[Agregación]]**, por ende, también es un tipo de **[[2° Año/1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Asociación]]**. Es decir, puede incluir [[Decoradores, Adornos]] y es **estructural**. ([[Diagrama de Clases]])
 
 También representa el **“todo”** y la/s **“partes”** pero el tiempo de vida
 de las partes esta ligada al del **todo**.

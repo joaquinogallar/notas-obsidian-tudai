@@ -50,13 +50,13 @@ Como representar los distintos **atributos** y **operaciones**:
 ### Relaciones entre clases
 Las relaciones son conexiones entre clases. Modelan la colaboración entre clases.
 Hay varios tipos:
-- [[1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Generalización]]
+- [[2° Año/1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Generalización]]
 - [[Realización]]
-- [[1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Asociación]] (**estructural**)
+- [[2° Año/1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Asociación]] (**estructural**)
 - [[Agregación]] (**estructural**)
 - [[Composición]] (**estructural**)
 - [[Clase de Asociación]]
-- [[1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Dependencia]]
+- [[2° Año/1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Dependencia]]
 
 Algunos de estos se denominan como **relaciones estructurales**, donde podemos encontrarnos con los [[Decoradores, Adornos]].
 
