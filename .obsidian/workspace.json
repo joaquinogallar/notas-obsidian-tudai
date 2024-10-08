@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "cb21b8e01ff197f7",
+    "id": "6f55ac6875e8b8be",
     "type": "split",
     "children": [
       {
-        "id": "e5d6de36fa88d274",
+        "id": "0b87cdab697b48c7",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd0596b32ea0ce6",
+            "id": "1511b3c26920a402",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arquitectura Web/Gradle.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4b30c995c694118f",
+    "id": "cac25dc15cb2e2d8",
     "type": "split",
     "children": [
       {
-        "id": "76a121979a3dd537",
+        "id": "e51d67ac23b62cfe",
         "type": "tabs",
         "children": [
           {
-            "id": "d4e7deff9e4c8828",
+            "id": "4c4e1c424e955871",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "d346d247e6afb15b",
+            "id": "73cbdeeeefc8e2e9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "10f708a985c4578a",
+            "id": "c46195118f7a372e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 231.5086555480957
   },
   "right": {
-    "id": "7e87642bffa81ad5",
+    "id": "828641c182c68440",
     "type": "split",
     "children": [
       {
-        "id": "9bc32fdf7b3da3f0",
+        "id": "d2ae9dfa5c3d936b",
         "type": "tabs",
         "children": [
           {
-            "id": "1567e938f07ce511",
+            "id": "61bd22237712e538",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura Web/Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "65141b08bdc397ab",
+            "id": "3a11ea5b2321a88d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura Web/Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e5c4ad1c90b4e0dc",
+            "id": "687b421047401a71",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,81 +114,89 @@
             }
           },
           {
-            "id": "9ba83523a3923db6",
+            "id": "0d71b6f1298e90d1",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Arquitectura Web/Gradle.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "05ee01ee2557566b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4e7deff9e4c8828",
+  "active": "4c4e1c424e955871",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-27 17.01.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-28 14.51.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-07 17.18.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-08 15.57.18.excalidraw.md",
-    "Arquitectura Web/REST/Estados.md",
-    "TDV/Testing/TestNG.md",
-    "TDV/Testing/Mocking.md",
-    "Arquitectura Web/JPA/JPQL (Java Persistence Query Language).md",
-    "TDV/Testing",
-    "Arquitectura Web/JPA/JPA (Java Persistence API).md",
-    "GEERs/Seguridad.md",
-    "Arquitectura Web/JPA/Relaciones/Asociación.md",
-    "Arquitectura Web/JPA/Orientación a Objetos.md",
-    "Arquitectura Web/JPA/Relaciones/Generalización.md",
-    "Arquitectura Web/JPA/Relaciones/Dependencia.md",
-    "Arquitectura Web/JPA/Patrones/DTO (Data Transfer Object).md",
-    "Arquitectura Web/JPA/Relaciones/Java/@OneToMany.md",
-    "Arquitectura Web/JPA/Relaciones/Java/@ManyToMany.md",
-    "Arquitectura Web/JPA/Relaciones/Java/@ManyToOne.md",
-    "GEERs/Blockchain.md",
-    "TDV/Documentación/User Stories.md",
-    "TDV/Documentación/Requerimientos.md",
-    "TDV/Documentación/Product Backlog.md",
-    "Arquitectura Web/JPA",
-    "Arquitectura Web/REST",
-    "TDV/Manejo de Código/Aserciones.md",
-    "TDV/Manejo de Código/Herramientas/JavaDoc.md",
-    "TDV/Manejo de Código/Documentación de Código.md",
-    "TDV/Manejo de Código/Linting.md",
-    "TDV/Manejo de Código/Herramientas",
-    "TDV/Manejo de Código",
-    "TDV/Documentación",
-    "GEERs",
-    "TDV/img/Backlog.png",
-    "TDV/img",
-    "TDV/img/Matriz Trazabilidad.png",
-    "TDV",
-    "Arquitectura Web/JPA/img/DTOMapping.png",
-    "Arquitectura Web/JPA/img/PatronRepository.png",
-    "Arquitectura Web/JPA/Patrones",
-    "Arquitectura Web/JPA/img/JPQL.png",
-    "Arquitectura Web/JPA/img/ManyToManyBidireccional.png",
-    "Arquitectura Web/JPA/img/ManyToMany.png",
-    "Arquitectura Web/JPA/img/OneToOneBidireccional.png",
-    "Arquitectura Web/JPA/img/OneToOne.png",
-    "Arquitectura Web/JPA/img/OneToMany.png"
+    "1° Cuatrimestre/CDAR/Repaso Teoria.md",
+    "1° Cuatrimestre/CDAR/TPC-IP/imagenes/HeaderUDP.png",
+    "1° Cuatrimestre/CDAR/TPC-IP/imagenes/HeaderTCP.png",
+    "1° Cuatrimestre/CDAR/TPC-IP/imagenes/ARP01.png",
+    "2° Cuatrimestre",
+    "1° Cuatrimestre",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Visibilidad del estado del sistema.md",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Relación entre el sistema y el mundo real.md",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Reconocimiento antes que recuerdo.md",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Prevención de errores.md",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Flexibilidad y eficiencia de uso.md",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Estética y diseño minimalista.md",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Control y libertad del usuario.md",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Consistencia y estándares.md",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Ayudar a los usuarios a reconocer.md",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Ayuda y documentación.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/9. Ley de Prägnanz.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/8. Ley de Proximidad.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/7. Ley de la Región Común.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/6. Ley de Jackob.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/5. Ley de Hick.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/4. Efecto Goal-Gradient.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/3. Ley de Fitts.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/21. Efecto Zeigarnik.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/20. Efecto Von Restorff.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/2. Umbral Doherty.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/19. Ley de Tesler.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/18. Efecto de Posición Serial.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/17. Ley de Postel.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/16. Regla de Pico Final.md",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX/15. Ley de Parkinson.md",
+    "2° Cuatrimestre/UX UI IxD/Principios Heurísticos",
+    "2° Cuatrimestre/UX UI IxD/Leyes de UX",
+    "2° Cuatrimestre/UX UI IxD/Diseño de experiencia",
+    "2° Cuatrimestre/UX UI IxD",
+    "2° Cuatrimestre/Arquitectura Web/JPA/img/ManyToMany.png",
+    "2° Cuatrimestre/Arquitectura Web/JPA/Relaciones/Java",
+    "2° Cuatrimestre/Arquitectura Web/JPA/img/PatronRepository.png",
+    "2° Cuatrimestre/Arquitectura Web/JPA/img/OneToOneBidireccional.png",
+    "2° Cuatrimestre/Arquitectura Web/JPA/img/OneToOne.png",
+    "2° Cuatrimestre/Arquitectura Web/JPA/img/OneToMany.png",
+    "2° Cuatrimestre/Arquitectura Web/JPA/img/OneToMany&ManyToOne.png",
+    "2° Cuatrimestre/Arquitectura Web/JPA/img/ManyToManyBidireccional.png",
+    "2° Cuatrimestre/Arquitectura Web/JPA/Relaciones",
+    "2° Cuatrimestre/Arquitectura Web/JPA/Patrones",
+    "2° Cuatrimestre/Arquitectura Web/JPA/Implementaciones Query",
+    "Untitled.canvas"
   ]
 }
