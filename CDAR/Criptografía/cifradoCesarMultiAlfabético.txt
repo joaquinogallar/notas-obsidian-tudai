@@ -1,0 +1,16 @@
+-Cifrado César-
+
+K=2 y K=5
+codificar mensaje ("este parcial es promocionable")
+patron = C1 C2 C2 C2
+
+// omitimos los espacios en blanco y consideramos la ñ
+
+C0-> K=0: a b c d e f g h i j k l m n ñ o p q r s t u v w x y z
+C1-> K=2: c d e f g h i j k l m n ñ o p q r s t u v w x y z a b
+C2-> K=5: f g h i j k l m n ñ o p q r s t u v w x y z a b c d e
+     
+codificación: 1222 1222122 21 2221222122212
+              este parcial es promocionable
+
+resultado:    gxyj rfwhkfp ju uwtñthnqrfgnj

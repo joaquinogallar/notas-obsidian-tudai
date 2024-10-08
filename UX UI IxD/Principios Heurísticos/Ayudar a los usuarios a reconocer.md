@@ -1,0 +1,1 @@
+Diagnosticar y recuperarse de errores: **los mensajes de error se deben entregar en un lenguaje claro y simple**, indicando en forma precisa el problema y sugerir una solución constructiva al problema.

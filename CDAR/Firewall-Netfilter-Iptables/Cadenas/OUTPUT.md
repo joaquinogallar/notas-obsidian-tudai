@@ -1,0 +1,2 @@
+Se aplican a los paquetes creados por la propia máquina. Esta cadena se ejecuta justo después de que la aplicación le pase los datos a enviar al kernel del sistema operativo y antes de consultar la tabla de encaminamiento.
+![[Cadenas01.png]]
