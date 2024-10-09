@@ -30,5 +30,3 @@ int count() {
 	return a;
 }
 ```
-
-# Inyección de Dependencias

@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "0b87cdab697b48c7",
+        "id": "976630d9b6e89831",
         "type": "tabs",
         "children": [
           {
-            "id": "1511b3c26920a402",
+            "id": "9f7ab854c5492513",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "f32458e6c80f4fa6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Estados.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Estados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Estados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Estados.md"
+              }
             }
           },
           {
@@ -149,54 +168,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c4e1c424e955871",
+  "active": "f32458e6c80f4fa6",
   "lastOpenFiles": [
+    "2° Año/1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Composición.md",
+    "2° Año/1° Cuatrimestre/Metodologias/Diagrama de Clases/Diagrama de Clases.md",
+    "2° Año/1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Dependencia.md",
+    "2° Año/1° Cuatrimestre/Metodologias/Diagrama de Clases/Relaciones/Generalización.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/JAX-RS y Jersey.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/imageness/JAX-RS y Jersey.png",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/HTTP (HyperText Transfer Protocol).md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/imageness/MetodosCRUD.png",
+    "Untitled.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Arquitectura por Capas.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Arquitectura por Tiers.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/imageness/Capas.png",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Estados.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/REST.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Inyección de Dependencias (IoD).md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/Status Codes.md",
+    "2° Año/1° Cuatrimestre/Excalidraw/estudio 24-06.md",
+    "2° Año/1° Cuatrimestre/Prog3/Grafos/imagenes/VerticesGD.png",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/Patrones/Repository.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/Patrones/DTO (Data Transfer Object).md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/JPQL (Java Persistence Query Language).md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/JPA (Java Persistence API).md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/Gradle.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/Maven.md",
+    "Dtos (Data Transfer Object).md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/Orientación a Objetos.md",
+    "().md",
+    "2° Año/1° Cuatrimestre/CDAR/TPC-IP/ARP (Address Resolution Protocol).md",
+    "2° Año/1° Cuatrimestre/CDAR/Firewall-Netfilter-Iptables/Netfilter-Iptables.md",
+    "2° Año/1° Cuatrimestre/CDAR/Firewall-Netfilter-Iptables/NAT (Network Address Translation).md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/imageness/Tiers01.png",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/imageness/Tiers02.png",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/imageness",
     "1° Año",
     "2° Año",
     "2° Año/1° Cuatrimestre/cifradoCesarPoli-Alfabético.txt",
-    "2° Año/1° Cuatrimestre/CDAR/Repaso Teoria.md",
     "2° Año/1° Cuatrimestre/CDAR/TPC-IP/imagenes/HeaderUDP.png",
     "2° Año/1° Cuatrimestre/CDAR/TPC-IP/imagenes/HeaderTCP.png",
     "2° Año/1° Cuatrimestre/CDAR/TPC-IP/imagenes/ARP01.png",
     "2° Año/2° Cuatrimestre",
     "2° Año/1° Cuatrimestre",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Visibilidad del estado del sistema.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Relación entre el sistema y el mundo real.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Reconocimiento antes que recuerdo.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Prevención de errores.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Flexibilidad y eficiencia de uso.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Estética y diseño minimalista.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Control y libertad del usuario.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Consistencia y estándares.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Ayudar a los usuarios a reconocer.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos/Ayuda y documentación.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/9. Ley de Prägnanz.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/8. Ley de Proximidad.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/7. Ley de la Región Común.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/6. Ley de Jackob.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/5. Ley de Hick.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/4. Efecto Goal-Gradient.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/3. Ley de Fitts.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/21. Efecto Zeigarnik.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/20. Efecto Von Restorff.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/2. Umbral Doherty.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/19. Ley de Tesler.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/18. Efecto de Posición Serial.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/17. Ley de Postel.md",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX/16. Regla de Pico Final.md",
     "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos",
     "2° Año/2° Cuatrimestre/UX UI IxD/Leyes de UX",
     "2° Año/2° Cuatrimestre/UX UI IxD/Diseño de experiencia",
     "2° Año/2° Cuatrimestre/UX UI IxD",
     "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/img/ManyToMany.png",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/Relaciones/Java",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/img/PatronRepository.png",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/img/OneToOneBidireccional.png",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/img/OneToOne.png",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/img/OneToMany.png",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/img/OneToMany&ManyToOne.png",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/img/ManyToManyBidireccional.png",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/Relaciones",
     "Untitled.canvas"
   ]
 }

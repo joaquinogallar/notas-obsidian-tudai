@@ -1,0 +1,1 @@
+En la inyección de dependencias **'alguien'** externo se encarga de las dependencias que las clases necesitan.
