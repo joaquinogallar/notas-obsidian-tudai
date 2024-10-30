@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e70cf37604c305",
+        "id": "689e74df2eadffa4",
         "type": "tabs",
         "children": [
           {
-            "id": "585c7416c15c0992",
+            "id": "ee5d74de03ed9f8f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "11201032249648cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +32,51 @@
               "icon": "lucide-file",
               "title": "Mocking"
             }
+          },
+          {
+            "id": "3024b4c5022407cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regression Test VS Retest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regression Test VS Retest"
+            }
+          },
+          {
+            "id": "6302931758bef02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Unitario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Unitario"
+            }
+          },
+          {
+            "id": "1f91a44448a6568e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2° Año/2° Cuatrimestre/TDV/Testing/JUnit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JUnit"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2° Año/2° Cuatrimestre/TDV/Testing/Mocking.md",
+                "file": "2° Año/2° Cuatrimestre/TDV/Testing/JUnit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mocking"
+              "title": "Backlinks for JUnit"
             }
           },
           {
@@ -112,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2° Año/2° Cuatrimestre/TDV/Testing/Mocking.md",
+                "file": "2° Año/2° Cuatrimestre/TDV/Testing/JUnit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mocking"
+              "title": "Outgoing links from JUnit"
             }
           },
           {
@@ -139,10 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2° Año/2° Cuatrimestre/TDV/Testing/Mocking.md"
+                "file": "2° Año/2° Cuatrimestre/TDV/Testing/JUnit.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mocking"
+              "title": "Outline of JUnit"
             }
           },
           {
@@ -175,17 +230,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "585c7416c15c0992",
+  "active": "1f91a44448a6568e",
   "lastOpenFiles": [
-    "2° Año/2° Cuatrimestre/TDV/Testing/TestNG.md",
     "2° Año/2° Cuatrimestre/TDV/Testing/Mocking.md",
+    "2° Año/2° Cuatrimestre/TDV/Testing/TDD (Test Driven Design).md",
+    "2° Año/2° Cuatrimestre/TDV/Testing/JUnit.md",
+    "Test Unitario.md",
+    "2° Año/1° Cuatrimestre/Prog3/Grafos/Definición de Grafos.md",
+    "Regression Test VS Retest.md",
+    "2° Año/2° Cuatrimestre/TDV/Testing/Métodos Testing/Caja Blanca.md",
+    "2° Año/2° Cuatrimestre/TDV/Testing/Testing.md",
+    "2° Año/2° Cuatrimestre/TDV/Testing/Métodos Testing",
+    "2° Año/2° Cuatrimestre/TDV/Testing/Tipos de Testing.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/JPA/Orientación a Objetos.md",
+    "2° Año/2° Cuatrimestre/TDV/Testing/TestNG.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/Cloud Computing/Availability.md",
+    "2° Año/2° Cuatrimestre/Arquitectura Web/Cloud Computing/Reliability.md",
     "2° Año/2° Cuatrimestre/TDV/Documentación/User Stories.md",
     "2° Año/2° Cuatrimestre/TDV/Documentación/Requerimientos.md",
     "2° Año/2° Cuatrimestre/TDV/Documentación/Product Backlog.md",
     "2° Año/2° Cuatrimestre/Arquitectura Web/Cloud Computing/SLA (Service Level Agreement).md",
     "2° Año/2° Cuatrimestre/Arquitectura Web/Cloud Computing/Cloud Computing.md",
-    "Availability.md",
-    "Reliability.md",
     "2° Año/2° Cuatrimestre/Arquitectura Web/Cloud Computing/Adopción.md",
     "2° Año/2° Cuatrimestre/Arquitectura Web/Cloud Computing/Servicios/IaaS (Interface as a Service).md",
     "2° Año/2° Cuatrimestre/Arquitectura Web/Cloud Computing/Servicios/PaaS (Plataform as a Service).md",
@@ -201,16 +266,7 @@
     "2° Año/2° Cuatrimestre/Arquitectura Web/Cloud Computing/img",
     "2° Año/2° Cuatrimestre/Arquitectura Web/Cloud Computing/IT (Tecnologías de la Información).md",
     "2° Año/1° Cuatrimestre/CDAR/Firewall-Netfilter-Iptables/Firewall.md",
-    "2° Año/1° Cuatrimestre/CDAR/Criptografía/Criptografía.md",
-    "2° Año/1° Cuatrimestre/CDAR/Criptografía/Cifrado.md",
     "2° Año/2° Cuatrimestre/Arquitectura Web/Cloud Computing",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Arquitectura por Tiers.md",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/REST.md",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/Status Codes.md",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/JAX-RS y Jersey.md",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Inyección de Dependencias (IoD).md",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/HTTP (HyperText Transfer Protocol).md",
-    "2° Año/2° Cuatrimestre/Arquitectura Web/REST/Estados.md",
     "2° Año/2° Cuatrimestre/Arquitectura Web/REST/imageness/JAX-RS y Jersey.png",
     "2° Año/2° Cuatrimestre/Arquitectura Web/REST/imageness/MetodosCRUD.png",
     "2° Año/2° Cuatrimestre/Arquitectura Web/REST/imageness/Capas.png",
@@ -222,7 +278,6 @@
     "2° Año/1° Cuatrimestre/cifradoCesarPoli-Alfabético.txt",
     "2° Año/2° Cuatrimestre",
     "2° Año/1° Cuatrimestre",
-    "2° Año/2° Cuatrimestre/UX UI IxD/Principios Heurísticos",
     "Untitled.canvas"
   ]
 }
