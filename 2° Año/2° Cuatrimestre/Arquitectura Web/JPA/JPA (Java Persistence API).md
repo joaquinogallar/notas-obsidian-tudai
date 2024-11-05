@@ -16,6 +16,10 @@ Anotaciones en JPA para las asociaciones:
 - [**@OneToOne**](@OneToOne.md)
 - [**@ManyToMany**](@ManyToMany.md)
 
+**transient** ignora el atributo a la hora de mapearlo a la base de datos
+```java title:atributoTransient
+private transient String noMapear;
+```
 ### Tipos de Lectura
 - **Lazy**: Leer una propiedad desde la base de datos la primera vez que un cliente intenta acceder a su valor.
 - **Eager**: Leerla cuando la entidad que la contiene es creada.

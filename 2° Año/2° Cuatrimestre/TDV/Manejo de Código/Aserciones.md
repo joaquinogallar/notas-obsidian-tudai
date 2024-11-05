@@ -39,3 +39,7 @@ private void AsignarTarea(Tarea t){
 ```
 
 https://assertj.github.io/doc/
+
+# Assertion vs Verify
+**Assert**: Evalúa una condición, si esa condición no es verdadera, falla el test y se ***detiene***.
+**Verify (SoftAssert)**: Evalúa una condición, si esa condición no es verdadera, marca el test como fallido, pero ***continúa*** con la ejecución del test.

@@ -25,5 +25,5 @@ El equipo de desarrollo.
 
 # Herramientas para Java
 - **[[JUnit]]**.
-- **[[TestNG]]**.
+- **[[2° Año/2° Cuatrimestre/TDV/Testing/TestNG|TestNG]]**
 - **JTiger**.
