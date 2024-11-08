@@ -1,4 +1,4 @@
-- **JAX-RS (Java API for RESTful Web Services)**: API estándar de Java para construir servicios con interfaz **[[REST]]**.
+- **JAX-RS (Java API for RESTful Web Services)**: API estándar de Java para construir servicios con interfaz **[[REST (Representational State Transfer)]]**.
 - **Jersey**: implementación de referencia de **JAX-RS**.
 ![[JAX-RS y Jersey.png]]
 
