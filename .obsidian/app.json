@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "promptDelete": false
 }
